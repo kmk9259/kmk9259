@@ -1,6 +1,8 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Min-Kyung%20Kim📚&fontSize=90)
-[![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](https://github.com/kmk9259/Study_JAVA)
+
+### 💻 Tech Stack 💻
+##### Techs that I've used at least once!
+>[![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](https://github.com/kmk9259/Study_JAVA)
 [![c](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)]()
 [![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)](https://github.com/kmk9259/KH_Study_Backend)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black)](https://github.com/kmk9259/KH_Study_SQL)
@@ -12,5 +14,3 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/kmk9259/KH_Study_Fontend/tree/master/JAVASCRIPT)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black)](https://github.com/kmk9259/KH_Study_Fontend/tree/master/VUE)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black)]()
-
-
