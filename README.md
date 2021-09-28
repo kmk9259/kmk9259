@@ -27,6 +27,10 @@
 <a href="mailto:alsrud9259@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsrud9259@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 <a href="mailto:kmk9259@naver.com"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kmk9259@naver.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 <a href="https://www.notion.so/kmk-portfolio/Study-61d5cab7cbb34b2c9438fe3e7742d8eb"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
-
+</div><br><br>
+<div align ="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmk9259&layout=compact" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 </div>
+
+
 
